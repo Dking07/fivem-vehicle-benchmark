@@ -86,6 +86,9 @@ The script is highly configurable through the `config.lua` file:
 - Configure commands names and permissions
 - Adjust notification settings
 - Set key bindings for quick access
+<div align="left">
+<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/config.png" width="150px" />
+</div>
 
 ## PREVIEW
 
