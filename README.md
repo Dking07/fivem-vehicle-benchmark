@@ -1,7 +1,7 @@
 # BENCHMARK [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/Thumb.png" width="500px" />
+<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/Thumb.png" width="300px" />
 </div>
 
 ## DESCRIPTION
