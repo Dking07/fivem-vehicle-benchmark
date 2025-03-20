@@ -92,7 +92,7 @@ The script is highly configurable through the `config.lua` file:
 
 ## PREVIEW
 
-* [YouTube]()
+* [YouTube](https://youtu.be/TGAf2khOruE)
 
 ## SUPPORT
 
