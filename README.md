@@ -1,5 +1,9 @@
 # BENCHMARK [STANDALONE]
 
+<div align="center">
+<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/Thumb.png" width="500px" />
+</div>
+
 ## DESCRIPTION
 
 DK Benchmark is a comprehensive vehicle performance testing tool for FiveM servers. This standalone resource provides real-time performance metrics for any vehicle in the game, allowing players to measure acceleration, top speed, and distance times with precision and style.
@@ -82,6 +86,10 @@ The script is highly configurable through the `config.lua` file:
 - Configure commands names and permissions
 - Adjust notification settings
 - Set key bindings for quick access
+
+## PREVIEW
+
+* [YouTube]()
 
 ## SUPPORT
 
