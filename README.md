@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-DK Benchmark is a comprehensive vehicle performance testing tool for FiveM servers. This standalone resource provides real-time performance metrics for any vehicle in the game, allowing players to measure acceleration, top speed, and distance times with precision and style.
+Benchmark is a comprehensive vehicle performance testing tool for FiveM servers. This standalone resource provides real-time performance metrics for any vehicle in the game, allowing players to measure acceleration, top speed, and distance times with precision and style.
 
 The benchmark displays a sleek, customizable UI that shows critical performance data including 0-60 MPH times, quarter-mile runs, top speed, and much more. Perfect for car enthusiasts, racing servers, vehicle developers, and anyone who wants to compare vehicle performance with accurate metrics.
 
