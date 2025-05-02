@@ -73,7 +73,7 @@ When you stop the vehicle, the benchmark saves your results and displays average
 
 1. Download the script
 2. Place it in your resources folder
-3. Add `ensure dk_benchmark` to your server.cfg
+3. Add `ensure dking_benchmark` to your server.cfg
 4. Restart your server or start the resource
 
 ## CONFIGURATION
