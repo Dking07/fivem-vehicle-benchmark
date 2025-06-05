@@ -96,9 +96,7 @@ The script is highly configurable through the `config.lua` file:
 
 ## SUPPORT
 
-If you encounter any issues or have questions about the script, please join our Discord server for support.
-
-### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+### [Discord](https://discord.gg/Rw6vjcXspG)
 
 ## COPYRIGHT
 
