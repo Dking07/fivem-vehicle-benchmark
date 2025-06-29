@@ -98,6 +98,12 @@ The script is highly configurable through the `config.lua` file:
 
 ### [Discord](https://discord.gg/Rw6vjcXspG)
 
+## CHANGELOGS
+
+### 1.0.2
+
+* Fixed distance and speed unit conversion.
+
 ## COPYRIGHT
 
 ### BY [DKING](https://github.com/Dking07) 2025 ©
