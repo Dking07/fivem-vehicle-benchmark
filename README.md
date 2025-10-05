@@ -1,7 +1,8 @@
-# BENCHMARK [STANDALONE]
+# BENCHMARK WITH DELTA SYSTEM [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/Thumb.png" width="300px" />
+<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/Thumb.png" width="206px" />
+<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/Delta/3.png" width="500px" />
 </div>
 
 ## DESCRIPTION
@@ -10,7 +11,7 @@ Benchmark is a comprehensive vehicle performance testing tool for FiveM servers.
 
 The benchmark displays a sleek, customizable UI that shows critical performance data including 0-60 MPH times, quarter-mile runs, top speed, and much more. Perfect for car enthusiasts, racing servers, vehicle developers, and anyone who wants to compare vehicle performance with accurate metrics.
 
-**Inspired by [GTAWiseGuy](https://www.twitch.tv/gtawiseguy) benchtime script**
+**Inspired in [GTAWiseGuy](https://www.twitch.tv/gtawiseguy) benchtime script**
 
 ## GET NOW
 
@@ -48,8 +49,28 @@ The benchmark displays a sleek, customizable UI that shows critical performance 
   - `/pausebench` - Pause/resume the current benchmark
   - `/togglespeed` - Switch between MPH and KPH
   - `/toggledistance` - Switch between Miles and Kilometers
-  - `/resetunits` - Reset to default unit settings
-  - `/delbenchpos` - Reset UI position
+  - `/benchdelta` - Delta System
+  - `/saverun` - Save the current run
+
+## DELTA SYSTEM
+
+The Delta System provides an easy way to save benchmark runs and compare two runs side-by-side, showing precise differences in performance metrics. It is designed for players and vehicle tuners to quickly see what changed between runs (improvements or regressions) without inspecting raw numbers.
+
+- What it does:
+  - Save a run locally (temporary ID) or persist it to the server database.
+  - Select any saved run as **BASE** and another as **COMPARE**.
+  - Automatically calculate deltas for: overall score, top speed, total time, each configured speed benchmark (e.g. 0–60), and distance benchmarks (¼ mile, ½ mile, etc.).
+  - Display signed differences (e.g. +0.35s or −0.12s) with color-coded indicators (green for faster, red for slower).
+
+- Workflow:
+  1. Open the Runs UI (`/benchruns` or configured keybind).
+  2. Save your current run (use the "SAVE CURRENT RUN" button or the command `/saverun`).
+  3. Choose one run as **BASE** and another as **COMPARE**.
+  4. The differences will be displayed in the **DELTA** column.
+
+- Why it’s useful:
+  - Quickly compare tuning changes, setups, or modifications between runs.
+  - Provides a clear numeric and visual way to validate improvements.
 
 ## HOW IT WORKS
 
@@ -74,7 +95,7 @@ When you stop the vehicle, the benchmark saves your results and displays average
 1. Download the script
 2. Place it in your resources folder
 3. Add `ensure dking_benchmark` to your server.cfg
-4. Restart your server or start the resource
+4. Start the resource
 
 ## CONFIGURATION
 
@@ -83,9 +104,9 @@ The script is highly configurable through the `config.lua` file:
 - Add or modify speed benchmarks
 - Customize distance measurements
 - Set default units (Imperial or Metric)
-- Configure commands names and permissions
-- Adjust notification settings
-- Set key bindings for quick access
+- Configure commands
+- Adjust notifications
+- Set key bindings for quick use
 <div align="left">
 <img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/config.png" width="150px" />
 </div>
@@ -94,15 +115,24 @@ The script is highly configurable through the `config.lua` file:
 
 * [YouTube](https://youtu.be/TGAf2khOruE)
 
+* [Delta System](https://github.com/Dking07/fivem-vehicle-benchmark/tree/main/Delta)
+
 ## SUPPORT
 
-### [Discord](https://discord.gg/Rw6vjcXspG)
+* ### [Discord](https://discord.gg/Rw6vjcXspG)
 
 ## CHANGELOGS
 
 ### 1.0.2
 
 * Fixed distance and speed unit conversion.
+
+### 1.0.3
+
+* Added translation system;
+* Command and notify configs moved to separate files;
+* Minor changes and improvements to the benchmark UI;
+* Added the Delta System, to save and compare the runs made in the benchmark.
 
 ## COPYRIGHT
 
