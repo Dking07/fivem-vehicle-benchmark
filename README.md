@@ -108,7 +108,7 @@ The script is highly configurable through the `config.lua` file:
 - Adjust notifications
 - Set key bindings for quick use
 <div align="left">
-<img src="https://github.com/user-attachments/assets/7e2984fd-8e43-41d2-b2c5-f1dd4fd3f427" width="150px" />
+<img src="https://github.com/user-attachments/assets/7e2984fd-8e43-41d2-b2c5-f1dd4fd3f427" width="500px" />
 </div>
 
 ## PREVIEW
@@ -119,13 +119,11 @@ The script is highly configurable through the `config.lua` file:
   <summary><h2 style="display: inline;">Delta System</h2></summary>
 
   <div align="left">
-    <img src="https://github.com/user-attachments/assets/ce481b2f-30d5-4d56-aca2-61950ea4d0f6" width="200px" />
+    <img src="https://github.com/user-attachments/assets/ce481b2f-30d5-4d56-aca2-61950ea4d0f6" width="700px" />
+    <img src="https://github.com/user-attachments/assets/27f2601f-6605-48f5-9e05-ae3a3c064b08" width="700px" />
   </div>
   <div align="left">
-    <img src="https://github.com/user-attachments/assets/27f2601f-6605-48f5-9e05-ae3a3c064b08" width="200px" />
-  </div>
-  <div align="left">
-    <img src="https://github.com/user-attachments/assets/7b175e5d-f4c0-45c5-a28d-0d61c5a036e8" width="200px" />
+    <img src="https://github.com/user-attachments/assets/7b175e5d-f4c0-45c5-a28d-0d61c5a036e8" width="700px" />
   </div>
 </details>
 
