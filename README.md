@@ -1,8 +1,8 @@
 # BENCHMARK WITH DELTA SYSTEM [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/Thumb.png" width="206px" />
-<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/Delta/3.png" width="500px" />
+<img src="https://github.com/user-attachments/assets/33f3f877-478f-487e-911a-56d6cb62ff96" width="206px" />
+<img src="https://github.com/user-attachments/assets/7b175e5d-f4c0-45c5-a28d-0d61c5a036e8" width="500px" />
 </div>
 
 ## DESCRIPTION
@@ -108,14 +108,26 @@ The script is highly configurable through the `config.lua` file:
 - Adjust notifications
 - Set key bindings for quick use
 <div align="left">
-<img src="https://github.com/Dking07/fivem-vehicle-benchmark/blob/main/config.png" width="150px" />
+<img src="https://github.com/user-attachments/assets/7e2984fd-8e43-41d2-b2c5-f1dd4fd3f427" width="150px" />
 </div>
 
 ## PREVIEW
 
 * [YouTube](https://youtu.be/TGAf2khOruE)
 
-* [Delta System](https://github.com/Dking07/fivem-vehicle-benchmark/tree/main/Delta)
+<details>
+  <summary><h2 style="display: inline;">Delta System</h2></summary>
+
+  <div align="left">
+    <img src="https://github.com/user-attachments/assets/ce481b2f-30d5-4d56-aca2-61950ea4d0f6" width="200px" />
+  </div>
+  <div align="left">
+    <img src="https://github.com/user-attachments/assets/27f2601f-6605-48f5-9e05-ae3a3c064b08" width="200px" />
+  </div>
+  <div align="left">
+    <img src="https://github.com/user-attachments/assets/7b175e5d-f4c0-45c5-a28d-0d61c5a036e8" width="200px" />
+  </div>
+</details>
 
 ## SUPPORT
 
@@ -123,16 +135,26 @@ The script is highly configurable through the `config.lua` file:
 
 ## CHANGELOGS
 
-### 1.0.2
+<details>
+  <summary><h2 style="display: inline;">Expand</h2></summary>
 
-* Fixed distance and speed unit conversion.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.2</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Fixed distance and speed unit conversion.</li>
+    </ul>
+  </details>
 
-### 1.0.3
-
-* Added translation system;
-* Command and notify configs moved to separate files;
-* Minor changes and improvements to the benchmark UI;
-* Added the Delta System, to save and compare the runs made in the benchmark.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.3</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added translation system;</li>
+      <li>Command and notify configs moved to separate files;</li>
+      <li>Minor changes and improvements to the benchmark UI;</li>
+      <li>Added the Delta System, to save and compare the runs made in the benchmark.</li>
+    </ul>
+  </details>
+</details>
 
 ## COPYRIGHT
 
