@@ -154,6 +154,14 @@ The script is highly configurable through the `config.lua` file:
       <li>Added the Delta System, to save and compare the runs made in the benchmark.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.4</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added the <code>/autopause</code> command, now it is possible to set a speed, time, or distance for the benchmark to pause automatically;</li>
+      <li>Changes in the database.</li>
+    </ul>
+  </details>
 </details>
 
 ## COPYRIGHT
