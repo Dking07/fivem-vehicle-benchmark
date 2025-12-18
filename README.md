@@ -129,6 +129,11 @@ The script is highly configurable through the `config.lua` file:
   </div>
 </details>
 
+## DEPENDENCIES
+
+* [ox_lib](https://github.com/overextended/ox_lib) (Optional, used only for notifications)
+* [oxmysql](https://github.com/overextended/oxmysql)
+
 ## SUPPORT
 
 * ### [Discord](https://discord.gg/Rw6vjcXspG)
