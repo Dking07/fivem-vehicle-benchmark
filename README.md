@@ -171,4 +171,4 @@ The script is highly configurable through the `config.lua` file:
 
 ## COPYRIGHT
 
-### BY [DKING](https://github.com/Dking07) 2025 ©
+### BY [DKING](https://github.com/Dking07) 2026 ©
