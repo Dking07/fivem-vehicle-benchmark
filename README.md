@@ -1,7 +1,7 @@
 # BENCHMARK WITH DELTA SYSTEM [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/33f3f877-478f-487e-911a-56d6cb62ff96" width="206px" />
+<img src="https://github.com/user-attachments/assets/60cceb92-2074-433e-8317-4cad7a099f05" width="206px" />
 <img src="https://github.com/user-attachments/assets/7b175e5d-f4c0-45c5-a28d-0d61c5a036e8" width="500px" />
 </div>
 
@@ -165,6 +165,15 @@ The script is highly configurable through the `config.lua` file:
     <ul style="margin-left: 20px;">
       <li>Added the <code>/autopause</code> command, now it is possible to set a speed, time, or distance for the benchmark to pause automatically;</li>
       <li>Changes in the database.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.5</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Redesigned all frontend logic;</li>
+      <li>Small corrections;</li>
+      <li>Some optimizations.</li>
     </ul>
   </details>
 </details>
