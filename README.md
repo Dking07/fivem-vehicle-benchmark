@@ -111,7 +111,7 @@ The script is highly configurable through the `config.lua` file:
   <summary><h2 style="display: inline;">Image</h2></summary>
 
   <div align="left">
-    <img src="https://github.com/user-attachments/assets/7e2984fd-8e43-41d2-b2c5-f1dd4fd3f427" width="600px" />
+    <img src="https://github.com/user-attachments/assets/b8586478-2229-4f2f-b797-768dbaa4f2bd" width="600px" />
   </div>
 </details>
 
@@ -174,6 +174,13 @@ The script is highly configurable through the `config.lua` file:
       <li>Redesigned all frontend logic;</li>
       <li>Small corrections;</li>
       <li>Some optimizations.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.6</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added the option to save a position (<code>/autopos</code>) so that the benchmark is automatically paused when the player passes it.</li>
     </ul>
   </details>
 </details>
