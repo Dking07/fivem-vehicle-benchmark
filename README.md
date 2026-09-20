@@ -19,25 +19,25 @@ The benchmark displays a sleek, customizable UI that shows critical performance 
 
 ## KEY FEATURES
 
-- 🚀 **Comprehensive Performance Metrics**:
+- **Comprehensive Performance Metrics**:
   - Speed benchmarks (0-60 MPH, 0-100 MPH, 0-120 MPH, etc.)
   - Distance benchmarks (⅛ Mile, ¼ Mile, ½ Mile, 1 Mile, etc.)
   - Top speed measurement
   - Average times for all metrics
 
-- ⚙️ **Fully Customizable**:
+- **Fully Customizable**:
   - Configurable speed and distance benchmarks
   - Adjustable UI position and scale
   - Customizable commands and key bindings
   - Support for both Imperial (MPH/Miles) and Metric (KPH/Kilometers) units
 
-- 🎮 **User-Friendly Interface**:
+- **User-Friendly Interface**:
   - Clean, modern UI design
   - Real-time updates
   - Vehicle name and class display
   - Color-coded status indicators
 
-- 🔧 **Advanced Functionality**:
+- **Advanced Functionality**:
   - Pause/resume benchmark testing
   - Reset functionality
   - Persistent settings between sessions
@@ -131,7 +131,7 @@ The script is highly configurable through the `config.lua` file:
 
 ## DEPENDENCIES
 
-* [ox_lib](https://github.com/overextended/ox_lib) (Optional, used only for notifications)
+* [ox_lib](https://github.com/overextended/ox_lib)
 * [oxmysql](https://github.com/overextended/oxmysql)
 
 ## SUPPORT
