@@ -183,6 +183,13 @@ The script is highly configurable through the `config.lua` file:
       <li>Added the option to save a position (<code>/autopos</code>) so that the benchmark is automatically paused when the player passes it.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.8</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Small improvements.</li>
+    </ul>
+  </details>
 </details>
 
 ## COPYRIGHT
